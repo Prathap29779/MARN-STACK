@@ -1,0 +1,53 @@
+body {
+    animation: place 5s infinite alternate;
+}
+
+@keyframes place {
+    0% {
+        background-color: bisque;
+    }
+
+    10% {
+        background-color: rgb(36, 203, 203);
+        color: rgb(150, 245, 55);
+    }
+    20% {
+        background-color: rgb(142, 85, 248);
+        color: rgb(241, 92, 92);
+    }
+    30% {
+        background-color: rgb(141, 29, 181);
+        color: rgb(221, 232, 120);
+    }
+
+
+    40% {
+        background-color: rgb(241, 92, 92);
+        color: rgb(36, 203, 203);
+    }
+    50% {
+        background-color: rgb(116, 239, 110);
+        color: rgb(141, 29, 181);
+    }
+    60% {
+        background-color: rgb(208, 241, 174);
+        color: bisque;
+    }
+    70% {
+        background-color: rgb(36, 203, 203);
+        color: rgb(190, 218, 55);
+    }
+    80% {
+        background-color: rgb(116, 239, 110);
+        color: rgb(241, 92, 92);
+    }
+    90% {
+        background-color: rgb(200, 232, 22);
+        color: rgb(36, 203, 203);
+    }
+
+    100% {
+        background-color: aquamarine;
+        color: rgb(241, 92, 92);
+    }
+}

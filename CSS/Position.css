@@ -1,0 +1,12 @@
+form{
+    margin: 0.3cm 0.2cm;
+    padding: 0.3cm 0.2cm 0.5cm 0.1cm;
+    background-color:chocolate  antiquewhite blueviolet;
+    border-style:groove;
+    border-width: 0.6cm;
+    border-color: rgb(226, 104, 43);
+    border-radius: 20px 80px 0px 50px;
+}
+h1{
+    
+}
